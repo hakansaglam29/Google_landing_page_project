@@ -42,6 +42,7 @@ header button {
       -ms-flex-align: center;
           align-items: center;
   margin-left: 10px;
+  position: absolute;
 }
 
 .div-2 {
@@ -175,3 +176,4 @@ footer section {
 .div-9 a {
   padding-left: 20px;
 }
+/*# sourceMappingURL=style.css.map */
